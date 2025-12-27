@@ -1,0 +1,9 @@
+{
+  "name": "FF SHOP",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
